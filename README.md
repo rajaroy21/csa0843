@@ -1,5 +1,5 @@
 1.1 vowels com
-1.2 bakery
+1.2 bakery loaves
 1.3 share trading
 1.4 sum of sharing
 1.5 isomorphic
