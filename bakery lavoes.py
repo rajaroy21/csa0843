@@ -1,0 +1,9 @@
+a=float(input("enter the no;of fresh love purchased:"))
+b=float(input("enter the no;of old love purchased:"))
+c=185
+flv_price=c*a
+olv_price=((60*c)/100)*b
+print("regilar price is =",c)
+print('amount of new loves = :',flv_price)
+print('amout of old loves = :',olv_price)
+print('total amount= %f',(flv_price+olv_price))
