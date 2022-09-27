@@ -15,3 +15,4 @@
 15. greatest of three
 16. average
 17. water container
+18. Add two binary numbers
