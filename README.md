@@ -17,3 +17,4 @@
 17. water container
 18. Add two binary numbers
 19. real character
+20. Max and Min
