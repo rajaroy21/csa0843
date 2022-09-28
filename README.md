@@ -23,3 +23,4 @@
 23. right angled triangle pattern
 24. mirror or reverse
 25. factors of perfect number
+26. pos and neg numbers
