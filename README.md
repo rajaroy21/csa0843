@@ -21,3 +21,4 @@
 21. Parscel
 22. factorial
 23. right angled triangle pattern
+24. mirror or reverse
