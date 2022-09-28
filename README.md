@@ -19,3 +19,4 @@
 19. real character
 20. Max and Min
 21. Parscel
+22. factorial
