@@ -26,3 +26,4 @@
 26. pos and neg numbers
 27. simple intrest for simple intrest
 28. even and squares
+29. palindrome
