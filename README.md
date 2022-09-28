@@ -27,3 +27,4 @@
 27. simple intrest for simple intrest
 28. even and squares
 29. palindrome
+30. skipping
