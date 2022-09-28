@@ -18,3 +18,4 @@
 18. Add two binary numbers
 19. real character
 20. Max and Min
+21. Parscel
