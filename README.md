@@ -16,3 +16,4 @@
 16. average
 17. water container
 18. Add two binary numbers
+19. real character
