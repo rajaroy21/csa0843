@@ -20,3 +20,4 @@
 20. Max and Min
 21. Parscel
 22. factorial
+23. right angled triangle pattern
