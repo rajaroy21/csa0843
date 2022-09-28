@@ -24,3 +24,5 @@
 24. mirror or reverse
 25. factors of perfect number
 26. pos and neg numbers
+27. simple intrest for simple intrest
+28. even and squares
