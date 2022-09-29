@@ -28,3 +28,6 @@
 28. even and squares
 29. palindrome
 30. skipping numbers
+31. leap year or non leap year
+32. possible combination
+33. day 3 pattern
