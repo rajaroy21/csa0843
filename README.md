@@ -35,3 +35,4 @@
 35. matrix add
 36. max words
 37. square and cube of decimal num
+38. ascending order
