@@ -35,7 +35,7 @@
 35. matrix add
 36. max words
 37. square and cube of decimal num
-38. ascending order
+38. ascending order and descending order
 39. vowels in string
 40. mean mode median
 41. printing vowels and consonants
