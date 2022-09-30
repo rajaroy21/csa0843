@@ -37,3 +37,5 @@
 37. square and cube of decimal num
 38. ascending order
 39. vowels in string
+40. mean mode median
+41. printing vowels and consonants
