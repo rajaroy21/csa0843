@@ -39,3 +39,4 @@
 39. vowels in string
 40. mean mode median
 41. printing vowels and consonants
+42. valid number
