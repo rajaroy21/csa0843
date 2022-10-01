@@ -41,9 +41,10 @@
 41. printing vowels and consonants
 42. valid number
 43. vote eligible
-44. pattern pr0gram day 5
+44. pattern program day 5
 45. calculator
 46. composite numbers between two numbers
 47. divide and possible numbers
 48. frequency
 49. dialpad
+50. merge two list
