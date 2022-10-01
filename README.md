@@ -45,3 +45,4 @@
 45. calculator
 46. composite numbers between two numbers
 47. divide and possible numbers
+48. frequency
