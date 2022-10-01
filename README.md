@@ -40,3 +40,6 @@
 40. mean mode median
 41. printing vowels and consonants
 42. valid number
+43. vote eligible
+44. pattern pr0gram day 5
+45. calculator
