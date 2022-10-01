@@ -51,3 +51,4 @@
 51. minimum number
 52. count the prime and composite
 53. smaller and greater number
+54. LCM and GCD
