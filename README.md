@@ -48,3 +48,4 @@
 48. frequency
 49. dialpad
 50. merge two list
+51. minimum number
