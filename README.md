@@ -49,3 +49,4 @@
 49. dialpad
 50. merge two list
 51. minimum number
+52. count the prime and composite
